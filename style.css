@@ -10,9 +10,7 @@
 html,body{
     background-color: pink;
 }
-body{
-    width:90%;
-}
+
 nav{
     margin: 20px;
     display: flex;
